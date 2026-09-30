@@ -21,7 +21,7 @@ const preview = {
       default: 'light',
     },
     // StackBlitz addon — set to your repository URL
-    repositoryUrl: 'https://github.com/your-username/storybook-demo',
+    repositoryUrl: 'https://github.com/devadula-nandan/storybook-demo',
     layout: 'centered',
   },
 };
