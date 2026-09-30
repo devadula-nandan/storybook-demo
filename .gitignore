@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+storybook-static/
+
+# Logs
+*.log
+debug-storybook.log
+
+# Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Env
+.env
+.env.local
+.env.*.local
