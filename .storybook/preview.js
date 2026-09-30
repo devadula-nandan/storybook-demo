@@ -1,7 +1,9 @@
 import '../src/index.css';
+import { withStackBlitzCarbonExample } from '../src/storybook/withStackBlitzCarbonExample';
 
 /** @type { import('@storybook/react-vite').Preview } */
 const preview = {
+  decorators: [withStackBlitzCarbonExample],
   parameters: {
     controls: {
       expanded: true,

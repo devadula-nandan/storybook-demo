@@ -16,6 +16,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@stackblitz/sdk": "^1.11.1",
     "@stackblitz/storybook-addon-stackblitz": "^0.0.5",
     "@storybook/addon-a11y": "^10.6.1",
     "@storybook/addon-themes": "^10.6.1",
